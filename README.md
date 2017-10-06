@@ -4,7 +4,7 @@ Projeto que demonstra os princípios do Material design, principalmente no que s
 *Para mais informações [Android accessibility](https://developer.android.com/guide/topics/ui/accessibility/apps.html#label-ui)*
 
 ## Screenshots
-(breve)
+![tela inicial](screenshots/Tela_contraste_semContrat.png)
 
 ## Detalhes
 + Princípios do design de interfaces.
