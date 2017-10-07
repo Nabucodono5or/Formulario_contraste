@@ -21,7 +21,9 @@ Tela com contraste de cores
 + Uso de descrições.
 
 ## Requisitos
-(breve)
++ API SDK 26
++ API mínima 25
++ openjdk version (1.8.0_144)
 
 ## Licença
 Sob uso da [MIT Licença](https://github.com/Nabucodono5or/Formulario_contraste/blob/master/LICENSE)
